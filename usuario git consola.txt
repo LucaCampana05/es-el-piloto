@@ -1,0 +1,5 @@
+pc@DESKTOP-PC8RFQE MINGW64 ~
+$ git config --global user.email "lucacampana05@gmail.com"
+
+pc@DESKTOP-PC8RFQE MINGW64 ~
+$ git config --global user.name "LucaCampana05"
